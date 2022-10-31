@@ -1,11 +1,11 @@
 import React from 'react';
-
+import service_image1 from '../../images/pilates.jpg'
 const Services = () => {
     return (
         <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
             <div class="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
                 <a href="#">
-                    <img class="rounded-t-lg" src="/docs/images/blog/image-1.jpg" alt="" />
+                    <img class="rounded-t-lg" src={service_image1} alt="" />
                 </a>
                 <div class="p-5">
                     <a href="#">

@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "title": "Fitness Pilates",
+    "fee": 100,
+    "location": "Online",
+    "training_duration": "40",
+    "short_description": "Based on the traditional Pilates exercises, these classes are functional, building on obtaining better posture and mobility. Exercises target the whole body, but particularly the core.",
+    "full_details": "based on the traditional Pilates exercises, these classes are functional, building on better posture and mobility. Exercises are done both standing and on the floor. They are slow and controlled and target all areas of the body but particularly the core (stomach, back and bottom). Many different types of stretches are included and there are progressions offered for exercises to allow a mixed group of people to take part and work at their own level. They are classes that also help focus the mind and make you concentrate on yourself and can help you improve your mental health. We have different levels of class to suit participants better and to assist with mental health we have a short stretch and relax at the end of each Pilates session.",
+    "thumb": "https://i.ibb.co/85hd37W/Pilates.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Resistance Classes",
+    "fee": 150,
+    "location": "Online",
+    "training_duration": "60",
+    "short_description": "These classes are done using light hand weights or resistance bands. They give an increased heart rate but without any impact thus improving cardiovascular fitness and encouraging fat-burning.",
+    "full_details": "These classes are done using light hand weights or resistance bands. They are both standing and floor-based. They give an increased heart rate but without any impact thus improving cardiovascular fitness. The resistance of the weights and the bands can help improve muscle strength and tone without building muscle, maintain flexibility and balance, improve bone strength and help with weight management. Very suitable for those who want a bit more. We also offer some faster resistance classes incorporating cardio exercises.",
+    "thumb": "https://i.ibb.co/DgGhPp9/resistance-classes.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Legs, Bums & Tums",
+    "fee": 300,
+    "location": "Online",
+    "training_duration": "60",
+    "short_description": "Legs, bums, and tums very effectively work exactly what it says. Focused compound and isolation exercises to target leg, glute, and abdominal muscles.",
+    "full_details": "Legs, bums, and tums very effectively work exactly what it says. Focused compound and isolation exercises to target leg, glute, and abdominal muscles for a 30-minute workout. Exercises are performed slowly with control but are structured in a way that gets the heart and lungs working hard while you proceed through the workout targeting muscles. A wide variety of exercises and training methods to keep the class fun and different but always challenging and super effective.",
+    
+    "thumb": "https://i.ibb.co/XXdXnL5/Legs-Bums-Tums.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Pilates with Equipment",
+    "fee": 200,
+    "location": "Online",
+    "training_duration": "30",
+    "short_description": "Using the Fitness Pilates exercises and adding in equipment such as tennis balls, resistance bands, and bender balls. These give variety to the exercises and a different focus.",
+    "full_details": "Using the Fitness Pilates exercises and adding in equipment such as tennis balls, resistance bands, and bender balls. These give variety to the exercises and a different focus. Equipment can also aid with stretching, and tight muscles, and help core work. We love the equipment and can find lots of different ways of performing a core exercise.",
+    "thumb": "https://i.ibb.co/QrYYQZJ/pilates-with-equipment.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Pilates Intervals",
+    "fee": 300,
+    "location": "Online",
+    "training_duration": "60",
+    "short_description": "A 30/40-minute class using the Pilates moves you have learned in class and putting them together to create a constant flow class that gently raises the heart rate but with no impact.",
+    "full_details": "A 30/40-minute class using the Pilates moves you have learned in class and putting them together to create a constant flow class that gently raises the heart rate but with no impact. Class starts with a more dynamic warm-up and then moves through the exercises in intervals with active rest and stretching in between. Options for different levels are given. It’s faster, fun & feels good!",
+    "thumb": "https://i.ibb.co/9ycMcWN/pilates-intervals.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Personal YoGa",
+    "fee": 200,
+    "location": "Online",
+    "training_duration": "60",
+    "short_description": "Anyone can do yoga regardless of age, gender, or physical limitations. Yoga is the perfect exercise for you if you hate the pump-and-grind routine of a gym or a dance workout. Yoga makes you focus on how your body moves and feels.",
+    "full_details": "Just 2 months of practicing regular yoga can impact your mood and health positively and make you calmer, more focussed, and energetic. Our personal trainers are certified by some of India's top teacher training institutes and can help you train for strength, flexibility, balance, and body-mind awareness. You dont have to be flexible to do yoga. Yoga has many variations in every pose and a good teacher can help you do modifications of yoga poses that take your own level of flexibility into account.",
+    "thumb": "https://i.ibb.co/BPKyytc/yoga.jpg"
+  }
+]
