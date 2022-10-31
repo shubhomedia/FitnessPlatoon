@@ -15,7 +15,7 @@
     "fee": 150,
     "location": "Online",
     "training_duration": "60",
-    "short_description": "These classes are done using light hand weights or resistance bands. They give an increased heart rate but without any impact thus improving cardiovascular fitness and encouraging fat-burning.",
+    "short_description": "These classes are done using light hand weights or resistance bands. They give an increased heart rate but without any impact thus improving cardiovascular fitness.",
     "full_details": "These classes are done using light hand weights or resistance bands. They are both standing and floor-based. They give an increased heart rate but without any impact thus improving cardiovascular fitness. The resistance of the weights and the bands can help improve muscle strength and tone without building muscle, maintain flexibility and balance, improve bone strength and help with weight management. Very suitable for those who want a bit more. We also offer some faster resistance classes incorporating cardio exercises.",
     "thumb": "https://i.ibb.co/DgGhPp9/resistance-classes.jpg"
   },
@@ -27,7 +27,6 @@
     "training_duration": "60",
     "short_description": "Legs, bums, and tums very effectively work exactly what it says. Focused compound and isolation exercises to target leg, glute, and abdominal muscles.",
     "full_details": "Legs, bums, and tums very effectively work exactly what it says. Focused compound and isolation exercises to target leg, glute, and abdominal muscles for a 30-minute workout. Exercises are performed slowly with control but are structured in a way that gets the heart and lungs working hard while you proceed through the workout targeting muscles. A wide variety of exercises and training methods to keep the class fun and different but always challenging and super effective.",
-    
     "thumb": "https://i.ibb.co/XXdXnL5/Legs-Bums-Tums.jpg"
   },
   {
@@ -56,7 +55,7 @@
     "fee": 200,
     "location": "Online",
     "training_duration": "60",
-    "short_description": "Anyone can do yoga regardless of age, gender, or physical limitations. Yoga is the perfect exercise for you if you hate the pump-and-grind routine of a gym or a dance workout. Yoga makes you focus on how your body moves and feels.",
+    "short_description": "Anyone can do yoga regardless of age, gender, or physical limitations. Yoga is the perfect exercise for you if you hate the pump-and-grind routine of a gym or a dance workout.",
     "full_details": "Just 2 months of practicing regular yoga can impact your mood and health positively and make you calmer, more focussed, and energetic. Our personal trainers are certified by some of India's top teacher training institutes and can help you train for strength, flexibility, balance, and body-mind awareness. You dont have to be flexible to do yoga. Yoga has many variations in every pose and a good teacher can help you do modifications of yoga poses that take your own level of flexibility into account.",
     "thumb": "https://i.ibb.co/BPKyytc/yoga.jpg"
   }

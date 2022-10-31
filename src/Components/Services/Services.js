@@ -7,14 +7,22 @@ const Services = (props) => {
     const [service, setService] = useState([]);
 
     useEffect(() => {
-        fetch('')
+        fetch('https://raw.githubusercontent.com/shubhomedia/FitnessPlatoon/main/src/assets/service_data.json')
+            .then(res => res.json())
+            .then(data => setService(data))
     }, []);
 
     return (
         <div>
             <h2>Our Services</h2>
-            <div className="container py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6" >
-                <SingleCard></SingleCard>
+            <div className="grid max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-3" >
+                {
+                    service.map(service => <SingleCard
+                        key={service.id}
+                        service={service}
+                    >
+                    </SingleCard>)
+                }
             </div >
         </div>
 
