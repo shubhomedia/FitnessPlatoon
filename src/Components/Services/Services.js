@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import service_image1 from '../../images/pilates.jpg'
-import SingleCard from '../../SingleCard/SingleCard';
+import SingleCard from '../SingleCard/SingleCard';
 
 const Services = (props) => {
 
