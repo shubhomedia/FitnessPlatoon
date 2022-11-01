@@ -1,14 +1,12 @@
 import './App.css';
 import Header from './Components/Header/Header';
 import Footer from './Components/Footer/Footer';
-import Banner from './Components/Banner/Banner';
-import LogoSection from './Components/LogoSection/LogoSection';
-import Services from './Components/Services/Services';
-import Features from './Components/Features/Features';
-import Login from './Components/Login/Login';
 import NotFound from './Components/NotFound/NotFound';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import Home from './Components/Pages/Home/Home';
+import About from './Components/Pages/About/About';
+import Services from './Components/Services/Services';
+import Contact from './Components/Pages/Contact/Contact';
 
 function App() {
   return (
@@ -19,14 +17,25 @@ function App() {
           <Route exact path="/">
             <Home></Home>
           </Route>
+          <Route path="/home">
+            <Home></Home>
+          </Route>
+          <Route path="/about">
+            <About></About>
+          </Route>
+          <Route path="/services">
+            <Services></Services>
+          </Route>
+          <Route path="/contact">
+            <Contact></Contact>
+          </Route>
+          <Route path="*">
+            <NotFound></NotFound>
+          </Route>
         </Switch>
+        <Footer></Footer>
       </Router>
-      <Services></Services>
-      <Features></Features>
-      <LogoSection></LogoSection>
-      <Login></Login>
-      <Footer></Footer>
-      <NotFound></NotFound>
+
     </div>
   );
 }

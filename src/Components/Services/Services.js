@@ -14,7 +14,7 @@ const Services = (props) => {
 
     return (
         <div>
-            <h2>Our Services</h2>
+            <h2 className="text-center font-extrabold tracking-tight leading-none md:text-3xl xl:text-5xl dark:text-white">Our Services</h2>
             <div className="grid max-w-screen-xl px-4 py-8 mx-auto md:gap-4 my-3 lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-3" >
                 {
                     service.map(service => <SingleCard
