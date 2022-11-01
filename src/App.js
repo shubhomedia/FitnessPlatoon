@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Header from './Components/Header/Header';
 import Footer from './Components/Footer/Footer';
@@ -7,6 +6,7 @@ import LogoSection from './Components/LogoSection/LogoSection';
 import Services from './Components/Services/Services';
 import Features from './Components/Features/Features';
 import Login from './Components/Login/Login';
+import NotFound from './Components/NotFound/NotFound';
 
 function App() {
   return (
@@ -18,6 +18,7 @@ function App() {
       <LogoSection></LogoSection>
       <Login></Login>
       <Footer></Footer>
+      <NotFound></NotFound>
     </div>
   );
 }
