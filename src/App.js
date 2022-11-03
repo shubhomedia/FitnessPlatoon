@@ -8,6 +8,7 @@ import About from './Components/Pages/About/About';
 import Services from './Components/Services/Services';
 import Contact from './Components/Pages/Contact/Contact';
 import Login from './Components/Login/Login';
+import ServiceDetails from './Components/ServiceDetails/ServiceDetails';
 
 function App() {
   return (
@@ -32,6 +33,9 @@ function App() {
           </Route>
           <Route path="/contact">
             <Contact></Contact>
+          </Route>
+          <Route path="/servicedetails/:serviceId">
+            <ServiceDetails></ServiceDetails>
           </Route>
           <Route path="*">
             <NotFound></NotFound>
